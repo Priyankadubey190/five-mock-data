@@ -1,0 +1,24 @@
+{
+  "name": "five-mock-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyankadubey190/five-mock-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyankadubey190/five-mock-data/issues"
+  },
+  "homepage": "https://github.com/Priyankadubey190/five-mock-data#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
