@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Priyankadubey190/five-mock-data#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.17.1"
   }
 }
